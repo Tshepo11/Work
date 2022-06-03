@@ -1,0 +1,10 @@
+C:\Users\Tshepo Mola\Desktop\Assessment\StudentManagement_API\StudentManagement.Domain\bin\Debug\netcoreapp3.1\StudentManagement.Domain.deps.json
+C:\Users\Tshepo Mola\Desktop\Assessment\StudentManagement_API\StudentManagement.Domain\bin\Debug\netcoreapp3.1\StudentManagement.Domain.dll
+C:\Users\Tshepo Mola\Desktop\Assessment\StudentManagement_API\StudentManagement.Domain\bin\Debug\netcoreapp3.1\StudentManagement.Domain.pdb
+C:\Users\Tshepo Mola\Desktop\Assessment\StudentManagement_API\StudentManagement.Domain\obj\Debug\netcoreapp3.1\StudentManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Tshepo Mola\Desktop\Assessment\StudentManagement_API\StudentManagement.Domain\obj\Debug\netcoreapp3.1\StudentManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tshepo Mola\Desktop\Assessment\StudentManagement_API\StudentManagement.Domain\obj\Debug\netcoreapp3.1\StudentManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Tshepo Mola\Desktop\Assessment\StudentManagement_API\StudentManagement.Domain\obj\Debug\netcoreapp3.1\StudentManagement.Domain.AssemblyInfo.cs
+C:\Users\Tshepo Mola\Desktop\Assessment\StudentManagement_API\StudentManagement.Domain\obj\Debug\netcoreapp3.1\StudentManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tshepo Mola\Desktop\Assessment\StudentManagement_API\StudentManagement.Domain\obj\Debug\netcoreapp3.1\StudentManagement.Domain.dll
+C:\Users\Tshepo Mola\Desktop\Assessment\StudentManagement_API\StudentManagement.Domain\obj\Debug\netcoreapp3.1\StudentManagement.Domain.pdb
